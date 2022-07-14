@@ -1,4 +1,4 @@
-@keyframes seq-preloader {
+/* @keyframes seq-preloader {
   50% {
     opacity: 1;
   }
@@ -78,7 +78,7 @@
 .seq-preload-indicator-fallback .seq-preload-circle-3 {
   width: 16px;
   height: 16px;
-}
+} */
 
 
 /* MAIN CSS */
